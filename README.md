@@ -6,7 +6,9 @@ DinoPatch is a research notebook that detects anomalies in images by combining:
 
 It targets both texture anomalies (pasta) and shape anomalies (screws with washers) by enforcing consistent orientation, scale, and position before feature extraction, then scoring each patch by nearest neighbor distance.
 
-> Notebook: [DinoPatch.ipynb](https://colab.research.google.com/drive/12ghImE8IA1DlnfT4H3bph1YCxx0I2AcG?usp=sharing) (Colab)
+> Notebook: [Google Collab](https://colab.research.google.com/drive/12ghImE8IA1DlnfT4H3bph1YCxx0I2AcG?usp=sharing)
+
+> Read full paper: [Google Drive](https://drive.google.com/file/d/1SUC7JCkSW66rCQ73N15N5GCndm3lk3Vo/view)
 
 ---
 
